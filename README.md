@@ -15,3 +15,6 @@ A simple Blog Management System built using Core PHP, HTML, CSS, AJAX and jQuery
 
 ## Technologies
 PHP, MySQL, jQuery, AJAX, HTML, CSS
+
+## Project GitHub repository:  
+https://github.com/your-username/blog-management-system
